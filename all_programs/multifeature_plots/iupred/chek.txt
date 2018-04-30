@@ -1,0 +1,8 @@
+# IUPred 
+# Copyright (c) Zsuzsanna Dosztanyi, 2005
+#
+# Z. Dosztanyi, V. Csizmok, P. Tompa and I. Simon
+# J. Mol. Biol. (2005) 347, 827-839. 
+#
+#
+ Sequence length 0

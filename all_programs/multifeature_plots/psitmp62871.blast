@@ -1,0 +1,75 @@
+PSIBLAST 2.2.29+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen F.
+Altschul, John C. Wootton, E. Michael Gertz, Richa Agarwala,
+Aleksandr Morgulis, Alejandro A. Schaffer, and Yi-Kuo Yu (2005)
+"Protein database searches using compositionally adjusted
+substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Alejandro A. Schaffer, L. Aravind, Thomas L. Madden, Sergei
+Shavirin, John L. Spouge, Yuri I. Wolf, Eugene V. Koonin, and
+Stephen F. Altschul (2001), "Improving the accuracy of PSI-BLAST
+protein database searches with composition-based statistics and
+other refinements", Nucleic Acids Res. 29:2994-3005.
+
+
+
+Database: uniref90filt
+           2,599,110 sequences; 997,400,887 total letters
+
+Results from round 1
+
+
+Query= A0A0K9PSA1|Zostera_marina|21-96
+
+Length=76
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  UniRef90_F4I171 Mediator of RNA polymerase II transcription sub...    116   3e-29
+  UniRef90_A0A0A6MU26 Uncharacterized protein n=25 Tax=Candida al...  45.4    9e-05
+  UniRef90_H8WXR2 Uncharacterized protein n=1 Tax=Candida orthops...  44.7    2e-04
+  UniRef90_G8BA48 Putative uncharacterized protein n=1 Tax=Candid...  43.5    4e-04
+  UniRef90_C5MAT4 Predicted protein n=1 Tax=Candida tropicalis (s...  42.7    7e-04
+  UniRef90_F4P8L8 Putative uncharacterized protein n=1 Tax=Batrac...  39.7    0.006
+  UniRef90_A5DSP2 Putative uncharacterized protein n=1 Tax=Lodder...  39.3    0.010
+  UniRef90_A0A0C7MVM3 LALA0S09e07272g1_1 n=1 Tax=Lachancea lanzar...  39.3    0.010
+  UniRef90_Q9SHV7 Probable mediator of RNA polymerase II transcri...  36.6    0.079
+  UniRef90_P32257 Mediator of RNA polymerase II transcription sub...  35.4    0.18 
+  UniRef90_A0A060TC02 ARAD1D36014p n=1 Tax=Blastobotrys adeninivo...  35.0    0.22 
+  UniRef90_A0A090BCA9 Mediator of RNA polymerase II transcription...  35.0    0.22 
+  UniRef90_Q75BI6 Mediator of RNA polymerase II transcription sub...  35.0    0.24 
+  UniRef90_A0A0H5C636 Uncharacterized protein n=1 Tax=Cyberlindne...  33.5    0.76 
+  UniRef90_K0KVE1 Mediator of RNA polymerase II transcription sub...  33.1    0.84 
+  UniRef90_S9XKV1 Mediator complex subunit Med15 n=1 Tax=Schizosa...  33.1    0.96 
+  UniRef90_H6C333 Putative uncharacterized protein n=1 Tax=Exophi...  32.7    1.1  
+  UniRef90_G1XAC3 Uncharacterized protein n=1 Tax=Arthrobotrys ol...  32.0    1.6  
+  UniRef90_S2K7N5 Uncharacterized protein n=1 Tax=Mucor circinell...  32.3    1.7  
+  UniRef90_Q8SUU8 MADS domain n=3 Tax=Encephalitozoon cuniculi Re...  32.0    1.8  
+  UniRef90_S9PYZ9 Mediator complex subunit Med15 n=1 Tax=Schizosa...  32.0    2.0  
+  UniRef90_A0A0A2KK13 FAD linked oxidase, N-terminal n=1 Tax=Peni...  31.6    2.3  
+  UniRef90_W9VQ37 Uncharacterized protein n=2 Tax=Cladophialophor...  31.6    2.5  
+  UniRef90_W9YZZ1 Uncharacterized protein n=1 Tax=Capronia corona...  31.2    3.6  
+  UniRef90_A0A074WYM2 Uncharacterized protein n=1 Tax=Aureobasidi...  30.8    3.7  
+  UniRef90_A0A0D2CKA3 Uncharacterized protein n=1 Tax=Exophiala x...  31.2    3.8  
+  UniRef90_A0A067NPW2 Uncharacterized protein n=1 Tax=Pleurotus o...  30.8    4.8  
+  UniRef90_A0A0C7MP07 LALA0S03e06216g1_1 n=1 Tax=Lachancea lanzar...  30.8    5.1  
+  UniRef90_W6MQQ0 Uncharacterized protein n=1 Tax=Kuraishia capsu...  30.8    5.3  
+  UniRef90_A0A0J8UCW1 Uncharacterized protein n=1 Tax=Coccidioide...  30.8    5.4  
+  UniRef90_W9Y9B2 Uncharacterized protein n=1 Tax=Capronia epimyc...  30.8    5.7  
+  UniRef90_A0A0D0EA85 Unplaced genomic scaffold scaffold_166, who...  30.4    6.0  
+  UniRef90_M7P9D4 Uncharacterized protein n=1 Tax=Pneumocystis mu...  30.4    7.0  
+  UniRef90_S8AIV0 Uncharacterized protein n=1 Tax=Dactylellina ha...  29.6    9.6  
+
+
+
+Lambda      K        H

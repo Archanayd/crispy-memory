@@ -1,0 +1,66 @@
+PSIBLAST 2.2.29+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen F.
+Altschul, John C. Wootton, E. Michael Gertz, Richa Agarwala,
+Aleksandr Morgulis, Alejandro A. Schaffer, and Yi-Kuo Yu (2005)
+"Protein database searches using compositionally adjusted
+substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Alejandro A. Schaffer, L. Aravind, Thomas L. Madden, Sergei
+Shavirin, John L. Spouge, Yuri I. Wolf, Eugene V. Koonin, and
+Stephen F. Altschul (2001), "Improving the accuracy of PSI-BLAST
+protein database searches with composition-based statistics and
+other refinements", Nucleic Acids Res. 29:2994-3005.
+
+
+
+Database: uniref90filt
+           2,599,110 sequences; 997,400,887 total letters
+
+Results from round 1
+
+
+Query= A0A199UEA8|Ananas_comosus|48-120
+
+Length=73
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  UniRef90_Q6YXY2 Probable histone acetyltransferase HAC-like 1 n...  65.9    1e-11
+  UniRef90_Q9LE42 Histone acetyltransferase HAC5 n=2 Tax=Arabidop...  39.3    0.010
+  UniRef90_Q9FWQ5 Histone acetyltransferase HAC12 n=2 Tax=Arabido...  35.8    0.13 
+  UniRef90_Q9C5X9 Histone acetyltransferase HAC1 n=11 Tax=Brassic...  34.7    0.28 
+  UniRef90_Q8SUU8 MADS domain n=3 Tax=Encephalitozoon cuniculi Re...  33.5    0.67 
+  UniRef90_A0A0F8XSE1 H/ACA RNA-protein complex component Gar1 n=...  31.2    1.00 
+  UniRef90_F2QLS1 Vigilin n=2 Tax=Komagataella phaffii RepID=F2QL...  32.7    1.1  
+  UniRef90_Q8FDU9 Putative sialic acid transporter 2 n=56 Tax=Ent...  32.0    1.7  
+  UniRef90_Q5Z8V7 Probable histone acetyltransferase HAC-like 2 n...  32.0    2.1  
+  UniRef90_M5BP44 Uncharacterized protein n=1 Tax=Thanatephorus c...  31.6    2.1  
+  UniRef90_F6D724 Asparagine synthase n=1 Tax=Methanobacterium pa...  30.8    4.0  
+  UniRef90_A0A086TA99 Sterol regulatory element-binding protein c...  30.8    4.3  
+  UniRef90_M4YQ54 Protease HtpX homolog n=1 Tax=Thermoplasmatales...  30.0    6.1  
+  UniRef90_P0C5L7 Uncharacterized protein YDR118W-A n=4 Tax=Sacch...  28.1    6.6  
+  UniRef90_A0A0B2UEB7 Uncharacterized protein n=1 Tax=Ordospora c...  30.4    6.7  
+  UniRef90_W3X1V4 Uncharacterized protein n=1 Tax=Pestalotiopsis ...  30.0    7.7  
+  UniRef90_A0A0C3BJI7 Uncharacterized protein n=1 Tax=Serendipita...  30.0    8.0  
+  UniRef90_D7DTL1 Molybdenum cofactor synthesis domain protein n=...  30.0    8.2  
+  UniRef90_G0T291 Putative Aif protein n=2 Tax=Sporidiobolales Re...  30.0    8.3  
+  UniRef90_A0A0L6W8K1 Ferrichrome siderophore peptide synthetase ...  30.0    8.5  
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.137    0.414    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267 

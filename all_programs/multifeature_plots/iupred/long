@@ -1,0 +1,3 @@
+ Usage: ./iupred seqfile type 
+      where type stands for one of the options of 
+      "long", "short" or "glob"

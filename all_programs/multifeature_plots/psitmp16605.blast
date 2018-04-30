@@ -1,0 +1,47 @@
+PSIBLAST 2.2.29+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen F.
+Altschul, John C. Wootton, E. Michael Gertz, Richa Agarwala,
+Aleksandr Morgulis, Alejandro A. Schaffer, and Yi-Kuo Yu (2005)
+"Protein database searches using compositionally adjusted
+substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Alejandro A. Schaffer, L. Aravind, Thomas L. Madden, Sergei
+Shavirin, John L. Spouge, Yuri I. Wolf, Eugene V. Koonin, and
+Stephen F. Altschul (2001), "Improving the accuracy of PSI-BLAST
+protein database searches with composition-based statistics and
+other refinements", Nucleic Acids Res. 29:2994-3005.
+
+
+
+Database: uniref90filt
+           2,599,110 sequences; 997,400,887 total letters
+
+Results from round 1
+
+
+Query= hey
+
+Length=51
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  UniRef90_P04637 Cellular tumor antigen p53 n=56 Tax=Euarchontog...    102   5e-26
+  UniRef90_O36006 Cellular tumor antigen p53 n=3 Tax=Marmotini Re...  76.6    3e-16
+  UniRef90_Q9WUR6 Cellular tumor antigen p53 n=1 Tax=Cavia porcel...  72.4    9e-15
+  UniRef90_Q9TUB2 Cellular tumor antigen p53 n=14 Tax=Cetartiodac...  65.1    4e-12
+  UniRef90_O09185 Cellular tumor antigen p53 n=9 Tax=Cricetinae R...  64.7    5e-12
+  UniRef90_Q95330 Cellular tumor antigen p53 n=3 Tax=Oryctolagus ...  61.6    6e-11
+  UniRef90_P67939 Cellular tumor antigen p53 n=20 Tax=Cetartiodac...  58.2    1e-09
+  UniRef90_P41685 Cellular tumor antigen p53 n=2 Tax=Felis catus ...  57.8    1e-09
+  UniRef90_Q29537 Cellular tumor antigen p53 n=16 Tax=Caniformia ...  57.8    1e-09
+  UniRef90_P02340 Cellular tumor antigen p53 n=14 Tax=Mus musculu...
